@@ -46,7 +46,7 @@
   DEFINE CAPSULE_SUPPORT              = FALSE
   DEFINE FOLLOW_BGRT_SPEC             = FALSE
   DEFINE USE_PCO_MMIO_EMMC            = FALSE
-  DEFINE LOAD_OPTION_ROMS	      = FALSE
+  DEFINE LOAD_OPTION_ROMS             = TRUE
 
   #
   # Crypto Support
